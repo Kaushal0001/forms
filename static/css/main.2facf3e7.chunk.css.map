@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,EACE,WAAY,CACZ,SAAU,CACV,gBACF,CAGA,WACE,YAAa,CACb,YAAa,CACb,QAAS,CACT,kBACF","file":"main.2facf3e7.chunk.css","sourcesContent":["p{\n  height: 28px; \n  size: 25px;\n  text-align: right;\n}\n\n\n#table_con{\n  margin: 150px;\n  padding: 25px;\n  border: 3;\n  background: rgb(9,153,210);\n}"]}
